@@ -1,0 +1,7 @@
+Stub : by default kichu kaj kore dewa thake
+php artisan stub:published
+
+API routes are stateless, to use the api middleware. Web routes are stateful, to use the web middleware. So, we cannot write the route inside the web.php
+
+#apishooter
+
