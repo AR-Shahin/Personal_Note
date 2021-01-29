@@ -4,4 +4,13 @@ php artisan stub:published
 API routes are stateless, to use the api middleware. Web routes are stateful, to use the web middleware. So, we cannot write the route inside the web.php
 
 #apishooter
+#pusher
+#wensocket
+#docker
+
+//Project 
+Simple Restaurant Management  =>  Programming Kit
+Laravel Package Development  => Coder's Tape
+
+
 
