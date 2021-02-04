@@ -15,3 +15,5 @@ Laravel Package Development  => Coder's Tape
 
 
 i was reluctant to go 
+
+index.php>autoload>bootstrap>return instance App[service container,>kernel[handle]>

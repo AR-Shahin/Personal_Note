@@ -77,6 +77,13 @@ mysqli_num_rows() : row count
 
 
 
+#OOP
+abstract class use kora hoy same behavior er jnno, nonbody method ghulate abstract keyword use krte hbe.
+instane create kra kay na
+*extend diye implemnt krte hy
+
+
+
 
 
 
