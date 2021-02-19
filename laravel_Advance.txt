@@ -17,3 +17,19 @@ Laravel Package Development  => Coder's Tape
 i was reluctant to go 
 
 index.php>autoload>bootstrap>return instance App[service container,>kernel[handle]>
+
+#Route model Binding
+
+php artisan help make model
+#collections : what is collections?
+
+#server e up korar age cache,config,view clear krte hbe
+
+---------Blog project-------
+#login with mobile num
+-> multiple cat
+-> custom paginations
+-> SEO
+-> roll management
+-> Nested Comments System
+
