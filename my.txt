@@ -2,5 +2,6 @@ fb : https://www.facebook.com/arshahin.111/
 tw : https://twitter.com/Shahin85080084
 ins : https://www.instagram.com/anisur_rahaman_shahin/
 link : https://www.linkedin.com/in/anisur-rahman-shahin-31295b186/
-stack : https://stackoverflow.com/users/12926862/ar-shahin
+stackoverflow : https://stackoverflow.com/users/12926862/ar-shahin
 git  : https://github.com/AR-Shahin
+web : https://mhpavel.com/shahin/laravel/
