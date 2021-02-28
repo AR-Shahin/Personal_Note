@@ -1,0 +1,8 @@
+#http://www.eeng.dcu.ie/~ee553/ee402notes/html/ch01.html
+
+The four principles of object-oriented programming are encapsulation, abstraction, inheritance, and polymorphism.interface,abstract
+
+encapsulation : Data hiding
+
+
+
