@@ -1,0 +1,12 @@
+Typing : https://www.typing.com/
+Blog : mediam.com
+Emmet : https://docs.emmet.io/cheat-sheet/
+
+VS Code Extension : 
+	Live Server -> Ritwick dey
+	Code Spell Checker -> Steeet
+ 	JavaScript (ES6) code snippets ->
+ 	ESLint
+	HTML Snippets
+
+
