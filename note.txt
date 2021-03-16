@@ -8,5 +8,11 @@ VS Code Extension :
  	JavaScript (ES6) code snippets ->
  	ESLint
 	HTML Snippets
-
+	Laravel Blade Snippets ->Winnie Lin
+	Laravel Blade Spacer
+	Laravel Artisan -> naddy
+	Laravel Extra Intellisense ->amir
+	Laravel goto Controller
+	DotENV syntax highlighting
+	PHP Intelephense
 
