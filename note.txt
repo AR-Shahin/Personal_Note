@@ -7,12 +7,22 @@ VS Code Extension :
 	Code Spell Checker -> Steeet
  	JavaScript (ES6) code snippets ->
  	ESLint
+ 	js hint : dirk
 	HTML Snippets
 	Laravel Blade Snippets ->Winnie Lin
 	Laravel Blade Spacer
 	Laravel Artisan -> naddy
 	Laravel Extra Intellisense ->amir
 	Laravel goto Controller
+	lravel extra intellinse : amir
 	DotENV syntax highlighting
-	PHP Intelephense
+	PHP Intelephense : ben mewburn
+	PhP namespace resolver ->mehedi hasan
+	php intellsense : felix becker
+	IntelliSense for CSS class names in HTML: Zignd
+	DotEnv : mikestead
+	Darcula Theme : Rokoroku
+	Code Spell Checker : Street side software
+	Auto Close Tag : jun han
+	
 
