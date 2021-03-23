@@ -25,6 +25,8 @@ php artisan help make model
 
 #server e up korar age cache,config,view clear krte hbe
 
+
+# php artisan schema:dump : export laravel sql file
 ---------Blog project-------
 #login with mobile num
 -> multiple cat

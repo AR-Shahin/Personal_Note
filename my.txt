@@ -10,7 +10,7 @@ stackoverflow : https://stackoverflow.com/users/12926862/ar-shahin
 
 git  : https://github.com/AR-Shahin
 
-web : https://mhpavel.com/shahin/laravel/
+web : https://devshahin.com/
 
 you : https://www.youtube.com/channel/UCYxtDC_GVan9l1NFNthS3aQ
 
