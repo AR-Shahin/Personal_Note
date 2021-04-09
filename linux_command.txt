@@ -1,1 +1,6 @@
 xdg-open _FILE_NAME : open a file 
+php -S localhost:2121 : open php file
+sudo /opt/lampp/lampp start : run lammp
+mkdir _DIRECTORY_NAME : make a directory
+rm -d _DIRECTORY_NAME : remove directory
+touch _FILE_NAME : create a new file
