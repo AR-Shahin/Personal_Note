@@ -1,0 +1,65 @@
+Headings
+---------------
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Italic
+-----
+_text_
+
+Bold
+----------
+**text**
+
+strikethrough
+----------------
+~~text~~
+
+horizontal rule
+---------------------
+
+---
+
+Blockquote
+---------------------
+> text
+
+Links
+-------------
+[text](link)
+
+UL
+----------
+*item-1
+*item-2
+   *nested item
+ OL
+ -------
+ 1.item -1
+ 1. item-2
+ 
+ Image
+ ------------
+ ![image] (link)
+ 
+ Code Blocks
+ ----------------
+ ```(language_name)	
+ Code
+ ```
+
+
+
+
+
+
+
+
+
+
+
+
