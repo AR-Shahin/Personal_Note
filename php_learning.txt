@@ -83,6 +83,10 @@ instane create kra kay na
 *extend diye implemnt krte hy
 
 
+PHP tools
+----------------
+https://implode.io/ : online php 
+
 
 
 

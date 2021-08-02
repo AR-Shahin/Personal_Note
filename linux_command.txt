@@ -7,3 +7,4 @@ touch _FILE_NAME : create a new file
 cat file_name  : file dekhte 
 nano file_name  : terminal base editor
 mv FILE_1 to FILE_2 : rename file
+pwd : current file/folder location
